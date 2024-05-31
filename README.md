@@ -42,6 +42,13 @@ The repository is organized into the following directories:
 - Solutions and hints to aid your practice
 - Topics covered: classes, objects, inheritance, polymorphism, and more
 
+### OOP In Action
+
+- Implementation of libraries from scratch using OOP.
+- Guide on how to build better APIS.
+- Includes implementation and usage example.
+- Topics covered: classes, objects, inheritance, polymorphism, composition, generics, design patterns, and much more.
+
 ## How to Use
 
 1. **Clone the Repository**: Use git clone to download the repository to your local machine.

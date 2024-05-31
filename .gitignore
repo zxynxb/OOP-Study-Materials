@@ -1,1 +1,7 @@
+# executable
+
 *.exe
+
+# vs config folder
+
+.vscode
